@@ -1,0 +1,4 @@
+[build]
+  publish = "public"
+
+# This static deploy is for the storefront only. The API needs a separate Node host.
